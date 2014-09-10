@@ -1,0 +1,16 @@
+{
+  "name": "wordpress-core-styles",
+  "version": "1.0.0",
+  "authors": [
+    "Andrew Duthie <andrew@andrewduthie.com>"
+  ],
+  "description": "Styles for WordPress generated classes, including alignment and captions",
+  "homepage": "https://github.com/aduth/wordpress-core-styles",
+  "main": "styles.css",
+  "keywords": [
+    "wordpress",
+    "styles",
+    "css"
+  ],
+  "license": "GPL-2.0+"
+}
